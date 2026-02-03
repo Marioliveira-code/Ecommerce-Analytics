@@ -1,0 +1,151 @@
+Produto,Marca,Temporada,Qtd_Vendidos,N_Avaliações,Preço
+Produto_1,Amazon,Verão,28,8,2955.24
+Produto_2,Renner,Outono,219,98,175.94
+Produto_3,Amazon,Verão,155,139,1587.13
+Produto_4,Levi's,Inverno,114,127,2057.53
+Produto_5,Renner,Inverno,57,111,1844.23
+Produto_6,Amazon,Primavera,167,23,1767.04
+Produto_7,Mango,Não Def.,101,24,3313.03
+Produto_8,Novatec,Outono,52,61,355.75
+Produto_9,Levi's,Primavera,159,41,1892.68
+Produto_10,Renner,Não Def.,114,44,1969.58
+Produto_11,Garmin,Primavera,207,108,1471.2
+Produto_12,GAP,Primavera,231,6,2461.48
+Produto_13,Microsoft,Inverno,256,76,2519.18
+Produto_14,Lacoste,Verão,177,11,1816.63
+Produto_15,Mango,Inverno,38,50,2373.98
+Produto_16,Lenovo,Não Def.,148,59,2087.99
+Produto_17,Adidas,Inverno,109,107,701.53
+Produto_18,Sony,Verão,12,5,950.85
+Produto_19,Mango,Outono,173,30,1948.65
+Produto_20,Lacoste,Verão,27,17,1559.83
+Produto_21,Adidas,Verão,14,47,872.3
+Produto_22,Sony,Outono,208,9,823.55
+Produto_23,Adidas,Verão,276,114,669.55
+Produto_24,Mango,Inverno,51,137,989.53
+Produto_25,H&M,Não Def.,232,22,1924.2
+Produto_26,LG,Primavera,234,18,498.47
+Produto_27,Zara,Não Def.,266,120,966.7
+Produto_28,Lenovo,Primavera,204,6,1533.71
+Produto_29,Sony,Verão,129,83,1799.17
+Produto_30,Lenovo,Inverno,264,54,3294.42
+Produto_31,Samsung,Inverno,229,64,2932.23
+Produto_32,Apple,Verão,16,68,1534.98
+Produto_33,Samsung,Não Def.,167,54,1856.52
+Produto_34,Novatec,Inverno,119,136,1667.18
+Produto_35,Levi's,Outono,177,107,2585.74
+Produto_36,Lenovo,Verão,162,27,1821.32
+Produto_37,GAP,Verão,264,9,2973.93
+Produto_38,Adidas,Não Def.,137,132,1863.66
+Produto_39,Apple,Outono,116,144,2418.43
+Produto_40,H&M,Primavera,179,17,1396.96
+Produto_41,LG,Inverno,297,18,341.76
+Produto_42,Amazon,Inverno,110,66,3167.45
+Produto_43,Microsoft,Não Def.,143,69,1505.55
+Produto_44,Microsoft,Não Def.,118,52,130.01
+Produto_45,H&M,Primavera,276,84,389.96
+Produto_46,GAP,Inverno,24,142,2418.84
+Produto_47,Mango,Não Def.,222,38,1305.44
+Produto_48,GAP,Inverno,129,145,2075.01
+Produto_49,Zara,Inverno,74,119,1792.39
+Produto_50,Adidas,Inverno,71,69,1428.61
+Produto_51,Dell,Outono,206,141,1283.14
+Produto_52,Apple,Não Def.,99,66,1017.33
+Produto_53,H&M,Verão,117,64,3459.14
+Produto_54,Samsung,Primavera,266,47,2098.09
+Produto_55,Adidas,Não Def.,94,20,466.39
+Produto_56,LG,Inverno,133,68,3303.69
+Produto_57,Lacoste,Não Def.,24,99,1110.68
+Produto_58,H&M,Outono,157,122,2336.85
+Produto_59,Arezzo,Inverno,60,136,2440.7
+Produto_60,Nike,Primavera,84,14,649.92
+Produto_61,Renner,Outono,174,40,3070.11
+Produto_62,Dell,Outono,78,110,1322.3
+Produto_63,Garmin,Inverno,54,150,1254.72
+Produto_64,Lacoste,Primavera,85,135,2123.21
+Produto_65,H&M,Não Def.,173,20,409.21
+Produto_66,Microsoft,Outono,188,50,2043.87
+Produto_67,Arezzo,Outono,140,79,3190.93
+Produto_68,Lacoste,Outono,41,88,1588.79
+Produto_69,Garmin,Verão,158,127,1527.15
+Produto_70,Renner,Outono,36,19,2867.92
+Produto_71,Lenovo,Primavera,210,49,361.46
+Produto_72,Novatec,Verão,21,80,339.54
+Produto_73,Apple,Outono,23,142,2296.32
+Produto_74,LG,Primavera,80,60,1152.97
+Produto_75,Lenovo,Primavera,271,133,293.25
+Produto_76,Renner,Verão,52,59,2185.36
+Produto_77,LG,Não Def.,252,127,663.6
+Produto_78,Lenovo,Primavera,181,58,581.65
+Produto_79,Samsung,Outono,137,127,2990.5
+Produto_80,H&M,Primavera,185,74,725.98
+Produto_81,LG,Verão,81,149,2303.69
+Produto_82,Levi's,Não Def.,73,109,120.05
+Produto_83,Sony,Outono,57,40,838.52
+Produto_84,Zara,Primavera,30,118,2469.19
+Produto_85,Sony,Não Def.,39,93,1272.9
+Produto_86,Apple,Verão,96,88,3058.16
+Produto_87,Renner,Verão,190,93,3342.06
+Produto_88,Garmin,Primavera,52,130,2192.34
+Produto_89,Arezzo,Outono,152,145,733.07
+Produto_90,Renner,Verão,63,147,512.65
+Produto_91,H&M,Verão,114,110,150.27
+Produto_92,Amazon,Verão,122,119,2818.85
+Produto_93,Sony,Inverno,276,27,3071.73
+Produto_94,Microsoft,Não Def.,206,110,2347.18
+Produto_95,Mango,Inverno,273,84,1234.43
+Produto_96,Lenovo,Inverno,262,104,486.84
+Produto_97,Amazon,Primavera,103,89,2274.84
+Produto_98,GAP,Verão,233,12,1332.81
+Produto_99,Arezzo,Inverno,233,97,3380.52
+Produto_100,Sony,Outono,58,46,268.37
+Produto_101,Apple,Não Def.,163,44,2018.6
+Produto_102,Lacoste,Inverno,249,127,1594.06
+Produto_103,Novatec,Não Def.,56,101,2748.05
+Produto_104,Renner,Outono,186,116,2097.54
+Produto_105,Lacoste,Verão,165,142,1711.25
+Produto_106,Lacoste,Outono,185,11,3354.84
+Produto_107,Lenovo,Não Def.,94,70,1022.0
+Produto_108,H&M,Primavera,218,104,1320.91
+Produto_109,Dell,Primavera,100,124,1476.09
+Produto_110,Samsung,Verão,268,41,2434.24
+Produto_111,Lenovo,Verão,220,55,1058.42
+Produto_112,Zara,Inverno,210,141,3390.99
+Produto_113,Mango,Inverno,203,24,236.63
+Produto_114,Amazon,Outono,40,105,75.86
+Produto_115,Arezzo,Não Def.,18,81,811.24
+Produto_116,Samsung,Não Def.,23,71,3425.63
+Produto_117,Lacoste,Verão,127,59,3260.03
+Produto_118,LG,Outono,112,137,2371.11
+Produto_119,Adidas,Primavera,188,125,3081.22
+Produto_120,Arezzo,Não Def.,140,64,2207.87
+Produto_121,H&M,Outono,33,127,2035.61
+Produto_122,Microsoft,Verão,168,129,2884.69
+Produto_123,LG,Não Def.,297,40,2693.22
+Produto_124,H&M,Outono,65,34,1415.37
+Produto_125,Adidas,Verão,84,95,3114.69
+Produto_126,Sony,Não Def.,282,32,3228.83
+Produto_127,Apple,Verão,279,69,1726.11
+Produto_128,Amazon,Primavera,265,30,592.13
+Produto_129,Mango,Não Def.,10,55,1458.4
+Produto_130,Lacoste,Outono,19,95,102.42
+Produto_131,Sony,Não Def.,40,16,868.5
+Produto_132,Renner,Primavera,300,63,2823.34
+Produto_133,LG,Primavera,33,6,901.98
+Produto_134,Renner,Outono,193,136,2769.58
+Produto_135,Sony,Não Def.,275,123,2880.35
+Produto_136,Apple,Outono,293,124,1081.33
+Produto_137,LG,Não Def.,180,48,831.78
+Produto_138,Nike,Primavera,87,66,1252.54
+Produto_139,Sony,Inverno,65,145,2197.99
+Produto_140,Dell,Não Def.,205,135,1664.96
+Produto_141,Lenovo,Outono,169,78,1617.69
+Produto_142,Arezzo,Verão,188,60,765.83
+Produto_143,Novatec,Verão,241,100,2720.29
+Produto_144,Renner,Verão,164,13,1714.4
+Produto_145,Arezzo,Não Def.,224,70,3172.54
+Produto_146,Arezzo,Verão,213,140,248.75
+Produto_147,Novatec,Inverno,63,20,1512.47
+Produto_148,Adidas,Primavera,209,93,1825.44
+Produto_149,Sony,Não Def.,221,100,1608.02
+Produto_150,LG,Primavera,74,101,3192.76
